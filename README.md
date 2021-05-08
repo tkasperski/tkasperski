@@ -1,5 +1,6 @@
-## Hello 👋
+## 👋 Hello 
 My name is Tomek Kasperski and I’m an SAP enthusiast. I have the pleasure of working with this technology everyday as a developer (Application Consultant). Outside of work, I am studying computer science in the majoring in web applications.
+
 
 ## ⚡ Technologies
 * ABAP, ABAP OO
@@ -7,6 +8,7 @@ My name is Tomek Kasperski and I’m an SAP enthusiast. I have the pleasure of w
 * ALV, SmartForms, WebServices
 * CDS Views, AMDP
 * SQL
+
 
 ## 🌱 I’m currently learning
 * Web DynPro
