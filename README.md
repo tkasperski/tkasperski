@@ -1,5 +1,5 @@
 ## 👋 Hello 
-My name is Tomek Kasperski and I’m an SAP enthusiast. I have the pleasure of working with this technology everyday as a developer (Application Consultant). Outside of work, I am studying computer science in the majoring in web applications.
+My name is Tomek Kasperski and I’m an SAP enthusiast. I have the pleasure of working with this technology everyday as a developer (Application Consultant). Outside of work, I am studying computer science majoring in web applications.
 
 
 ## ⚡ Technologies
