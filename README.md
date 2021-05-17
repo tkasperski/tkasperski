@@ -5,7 +5,7 @@ My name is Tomek Kasperski and I’m an SAP enthusiast. I have the pleasure of w
 ## ⚡ Technologies
 * ABAP, ABAP OO
 * UI5, Fiori
-* ALV, SmartForms, WebServices
+* ALV, SmartForms, WebServices, LSMW, Enhancements 
 * CDS Views, AMDP
 * SQL
 
